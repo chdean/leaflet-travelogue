@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+#map {
+  height: 95vh;
+}
+
+#sidebar {
+  color: white;
+  display: block;
+  float: left;
+  background-color: block;
+  width: 20%;
+  padding: 0em 1em 0em .5em;
+}

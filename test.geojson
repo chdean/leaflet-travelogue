@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	      "title": "Title 1",
+	      "description": "<p>We embarked upon a great journey</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69404602050781,
+          43.077916221183784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {	      "title": "Title 2",
+	      "description": "<p>Lorem possimus culpa at quam sunt rerum minima explicabo reiciendis consequatur eveniet quaerat porro, nisi. Ut ea excepturi voluptate quis quibusdam labore officia ratione libero. In at dolorum omnis optio minima. Dicta magnam aliquam velit distinctio vero rerum nostrum accusamus corporis debitis! Rem nulla non totam nisi officiis! Id culpa.</p><p>Amet voluptates fugit iusto facilis dolore aliquid blanditiis. Illo debitis dignissimos quibusdam consequuntur animi dignissimos. Earum iure delectus quis laborum sequi facere esse eius quis. Voluptates nemo deleniti unde nemo consequuntur. Placeat at dolore architecto itaque optio natus voluptas, a velit nesciunt. A quisquam dolores quidem autem officia ad voluptatum?</p>"
+},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65078735351562,
+          43.19616614174525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {	      "title": "Title 3",
+	      "description": "<p>This is a test</p>"
+},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58006286621094,
+          43.243702187418116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {	      "title": "Title 4",
+	      "description": "<p>Our journey came to a close</p>"
+},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.572509765625,
+          43.33266994157184
+        ]
+      }
+    }
+  ]
+}
