@@ -1,5 +1,5 @@
 var defCenter = [0, 0];
-var dataSource = 'test.geojson';
+var dataSource = 'sample.geojson';
 var tileLayer = 'BASEMAP_URL';
 
 var map = L.map('map').setView(defCenter, 13);
