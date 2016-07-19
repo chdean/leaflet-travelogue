@@ -7,7 +7,7 @@ leaflet-travelogue is a simple plugin for telling stories with interactive maps 
 The following variables must be set in *map.js*:
 
 - dataSource - the GeoJSON file leaflet-travelogue reads for the map points and accompanying information.  The "title" and "description" properties of each point are used in the sidebar.
-- tileLayer - if using the default mapbox tileset, simply add your API key
+- tileLayer - URL for the basemap
 
 # Use
 

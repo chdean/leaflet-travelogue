@@ -1,13 +1,8 @@
-body {
-  background-color: black;
-}
-
 #map {
   height: 95vh;
 }
 
 #sidebar {
-  color: white;
   display: block;
   float: left;
   background-color: block;
