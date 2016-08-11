@@ -1,6 +1,6 @@
 # leaflet-travelogue
 
-leaflet-travelogue is a simple plugin for telling stories with interactive maps using [Leaflet](http://leafletjs.com/).  It reads a GeoJSON file and creates a map with points and accompanying descriptions.
+leaflet-travelogue is a simple plugin for telling stories with interactive maps using [Leaflet](http://leafletjs.com/).  It reads a GeoJSON file to create a map with points and accompanying descriptions that the user can page through.
 
 # Setup
 
