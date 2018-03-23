@@ -2,7 +2,7 @@
 
 leaflet-travelogue is a simple plugin for telling stories with interactive maps using [Leaflet](http://leafletjs.com/).  It reads a GeoJSON file to create a map with points and accompanying descriptions that the user can page through.
 
-# Setup
+## Setup
 
 The following variables must be set in *map.js*:
 
@@ -11,6 +11,6 @@ The following variables must be set in *map.js*:
 - tileLayer - URL for the basemap
 
 
-# Use
+## Use
 
 Use the Previous/Next buttons or arrow keys to fly through the different points.
